@@ -1,0 +1,13 @@
+*.o
+*.a
+minishell
+testprogram
+testprogram.c
+.vscode
+testloop
+test*
+.heredoc*
+.nfs*
+minishell_tester
+minishell_tester/*
+42_minishell_tester
